@@ -6,8 +6,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Token-05&theme=cobalt" />
 </a>
 
+<br>
+
 ## [Qiita](https://qiita.com/Token-05)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Token-05/posts.svg)](http://qiita.com/Token-05) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Token-05/contributions.svg)](http://qiita.com/Token-05) [![My Qiita followers](https://qiita-badge.apiapi.app/s/Token-05/followers.svg)](http://qiita.com/Token-05)
+
+<br>
 
 ## Products
 ・[Mine sweeper](https://github.com/Token-05/minesweeper)
