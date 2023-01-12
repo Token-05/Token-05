@@ -6,6 +6,6 @@ Hi, there✌️
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Token-05&theme=vue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Token-05&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Token-05&count_private=true&show_icons=true)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Token-05&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
